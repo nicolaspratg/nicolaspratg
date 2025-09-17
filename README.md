@@ -56,6 +56,16 @@
 
 <br/>  
 
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![Nicolás' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaspratg&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspratg&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=nicolaspratg&theme=tokyonight&hide_border=true)  
+
+</div>
+
 ## 🤝 Connect with me  
 <div align="center">
 <a href="https://github.com/nicolaspratg" target="_blank">
