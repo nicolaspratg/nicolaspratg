@@ -62,7 +62,6 @@
 
 ![Nicolás' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaspratg&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspratg&layout=compact&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=nicolaspratg&theme=tokyonight&hide_border=true)  
 
 </div>
 
